@@ -1,6 +1,4 @@
-# Sample Projects
+# Single web pages 
 
-simple one page website with simple animation
-HTML, CSS and Javescript
 
-Shopping cart , Hotel and restaurant
+https://mohamed-bakr-rabia.github.io/Single-Page-Website/
