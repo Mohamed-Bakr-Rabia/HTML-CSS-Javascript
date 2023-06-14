@@ -1,4 +1,5 @@
-# Single web pages 
+# Restaurant
 
+one page website with HTML, CSS and Javescript
 
-https://mohamed-bakr-rabia.github.io/Single-Page-Website/
+https://mbakr0.github.io/Restaurant/
